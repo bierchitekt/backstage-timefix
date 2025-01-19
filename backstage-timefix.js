@@ -6,5 +6,5 @@
 // @version     1.0
 // ==/UserScript==
 (function() {
-    document.querySelector("#maincontent > div.columns > div > div.product-info-main > div.page-title-wrapper.product > div > div.row").style.display = "block"
-}
+    document.querySelector("#maincontent > div.columns > div > div.product-info-main > div.page-title-wrapper.product > div > div.row").style.display = "block";
+});
